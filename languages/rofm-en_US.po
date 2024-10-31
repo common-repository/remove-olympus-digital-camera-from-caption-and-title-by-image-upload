@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Remove 'OLYMPUS DIGITAL CAMERA' from caption and title "
+"by image upload\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-22 12:41+0000\n"
+"PO-Revision-Date: 2019-05-22 12:43+0000\n"
+"Last-Translator: admin <roger.seeli@bluewin.ch>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2.2-alpha-45374"
+
+#. Description of the plugin
+msgid ""
+"Any photo taken on an Olympus camera is assigned an all-caps ‘OLYMPUS "
+"DIGITAL CAMERA’ label in the caption ant title field of the metadata. This "
+"can be annoying because it’s not immediately evident that this is happening, "
+"but whenever you upload/post it on wordpress that surfaces this data, you’ll "
+"suddenly find it attached to your photo as the title and caption. This "
+"plugin replaces 'OLYMPUS DIGITAL CAMERA' when uploading with the file name. "
+"Other metadata will be preserved. The title and caption tag will only be "
+"replaced if it contains 'OLYMPUS DIGITAL CAMERA'. Other titles or captions "
+"will not be changed."
+msgstr ""
+"Any photo taken on an Olympus camera is assigned an all-caps ‘OLYMPUS "
+"DIGITAL CAMERA’ label in the caption ant title field of the metadata. This "
+"can be annoying because it’s not immediately evident that this is happening, "
+"but whenever you upload/post it on wordpress that surfaces this data, you’ll "
+"suddenly find it attached to your photo as the title and caption. This "
+"plugin replaces 'OLYMPUS DIGITAL CAMERA' when uploading with the file name. "
+"Other metadata will be preserved. The title and caption tag will only be "
+"replaced if it contains 'OLYMPUS DIGITAL CAMERA'. Other titles or captions "
+"will not be changed."
+
+#: rofm_admin.php:5
+msgid ""
+"Any photo taken on an Olympus camera is assigned an all-caps ‘OLYMPUS "
+"DIGITAL CAMERA’ label in the caption ant title field of the metadata.<br>"
+"This can be annoying because it’s not immediately evident that this is "
+"happening, but whenever you upload/post it on wordpress that surfaces this "
+"data,<br>you’ll suddenly find it attached to your photo as the title and "
+"caption. This plugin replaces 'OLYMPUS DIGITAL CAMERA' when uploading with "
+"the file name.<br>Other metadata will be preserved."
+msgstr ""
+"Any photo taken on an Olympus camera is assigned an all-caps ‘OLYMPUS "
+"DIGITAL CAMERA’ label in the caption ant title field of the metadata.<br>"
+"This can be annoying because it’s not immediately evident that this is "
+"happening, but whenever you upload/post it on wordpress that surfaces this "
+"data,<br>you’ll suddenly find it attached to your photo as the title and "
+"caption. This plugin replaces 'OLYMPUS DIGITAL CAMERA' when uploading with "
+"the file name.<br>Other metadata will be preserved."
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/severinroth"
+msgstr "https://profiles.wordpress.org/severinroth"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/remove-olympus-from-metadata/"
+msgstr "https://wordpress.org/plugins/remove-olympus-from-metadata/"
+
+#. Name of the plugin
+#: rofm_admin.php:3
+msgid "Remove 'OLYMPUS DIGITAL CAMERA' from caption and title by image upload"
+msgstr "Remove 'OLYMPUS DIGITAL CAMERA' from caption and title by image upload"
+
+#. Author of the plugin
+msgid "Severin Roth"
+msgstr "Severin Roth"
+
+#: rofm_admin.php:7
+msgid ""
+"The plugin only removes 'OLYMPUS DIGITAL CAMERA' and replaces it. It does "
+"nothing more and nothing less. Therefore there is no need to adjust any "
+"settings."
+msgstr ""
+"The plugin only removes 'OLYMPUS DIGITAL CAMERA' and replaces it. It does "
+"nothing more and nothing less. Therefore there is no need to adjust any "
+"settings."
